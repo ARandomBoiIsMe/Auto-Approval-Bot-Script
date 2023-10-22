@@ -11,7 +11,7 @@ def initialize_reddit(config):
         client_secret=client_secret,
         password=password,
         username=username,
-        user_agent='BucketHead Album Checker v1.0 by ARandomBoiIsMe'
+        user_agent='Subreddit Network Adder v1.0 by ARandomBoiIsMe'
     )
 
     return reddit
